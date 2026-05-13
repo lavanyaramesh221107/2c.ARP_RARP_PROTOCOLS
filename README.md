@@ -93,9 +93,10 @@ while True:
 ```
 ## OUPUT -RARP
 ##server
-<img width="1862" height="931" alt="Screenshot 2026-05-13 110448" src="https://github.com/user-attachments/assets/7bdf0cec-ffde-4184-a609-da42509c69e8" />
+<img width="924" height="310" alt="Screenshot 2026-05-13 111519" src="https://github.com/user-attachments/assets/78ceeb60-7191-4090-bb49-9a289904a93f" />
 ##client
-<img width="1856" height="935" alt="Screenshot 2026-05-13 110506" src="https://github.com/user-attachments/assets/babe5532-fcb0-4105-b186-f883f3fd5909" />
+<img width="926" height="347" alt="Screenshot 2026-05-13 111529" src="https://github.com/user-attachments/assets/eedc65e8-4f6e-46e8-a148-dccc97b3b28d" />
+
 
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
